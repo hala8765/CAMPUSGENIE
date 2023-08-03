@@ -1,0 +1,42 @@
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+.bg-container-reg
+{
+    background: #FFFFFF;
+    box-shadow: -4px 7px 64px rgba(0, 0, 0, 0.10);
+    height: fit-content;
+    width: 40rem;
+    border-radius: 22px;
+
+}
+
+.reg-text-3{
+    font-size: smaller;
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem;
+}
+.reg-text-4{
+    color: cornflowerblue;
+    
+}
+
+.registerform-box{
+    background: #FFFFFF;
+    box-shadow: -4px 7px 64px rgba(0, 0, 0, 0.10);
+    height: fit-content;
+    width: 25rem;
+    border-radius: 22px;
+    padding-left: 6rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.background-container-1{
+    margin-top: 5rem;
+}
+
